@@ -1,0 +1,16 @@
+{
+    "name": "take-blip-api",
+    "version": "1.0.0",
+    "description": "A Take Blip chatbot",
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "author": "Carolina Melo",
+    "license": "ISC",
+    "dependencies": {
+        "blip-sdk": "^10.0.0",
+        "lime-transport-websocket": "^2.0.3"
+    }
+}

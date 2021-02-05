@@ -1,0 +1,4 @@
+export const CONFIG = {
+    IDENTIFIER: "YOUR_IDENTIFIER",
+    ACCESS_KEY: "YOUR_ACCESS_KEY"
+}
